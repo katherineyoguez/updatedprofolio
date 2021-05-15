@@ -157,3 +157,20 @@
     background: #ddd;
     margin-top: 20px;
   }
+
+  .resume {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 12px 50px;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: auto;
+    align-content: center;
+
+  }
+  
+  /* Darker background on mouse-over */
+  .resume:hover {
+    background-color: RoyalBlue;
+  }
